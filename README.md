@@ -1,6 +1,5 @@
+# Ask from for my hustle, I would give my heart
 ### Hi there, I'm Senthil Pitchappan V 👋
-
-
 ## I'm a Student with Tech Fever ❤️️
 
 - 🔭 I’m currently studying and freelancing
