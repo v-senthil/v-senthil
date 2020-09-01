@@ -1,13 +1,13 @@
 ### Hi there, I'm Senthil Pitchappan V 👋
 
 
-## I'm a Student with Tech Fever ❤️️❤️️
+## I'm a Student with Tech Fever ❤️️
 
 - 🔭 I’m currently studying and freelancing
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and upskill myself
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: Love playing basketball, photography, videography, playing around with data
 
 
 ### Connect with me:
