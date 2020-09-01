@@ -6,11 +6,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and upskill myself
-- ⚡ Fun fact: Love playing basketball, photography, videography, playing around with data
+- ⚡ Fun fact: Love playing basketball 🏀, photography 📷, videography 🎥, playing around with data 👁‍🗨
 
 ### On going Project
 
-- 🔌⚙💻 Final Year Project - Automatic Remote Monitoring System (A R M S)
+- 🔌⚙ Final Year Project - Automatic Remote Monitoring System (A R M S)
+- 💻📱 Netflix Redesign using Adobe XD
 
 
 ### Connect with me:
