@@ -12,10 +12,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="senthil" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="senthil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="senthil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="senthil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="senthil | Google Drive" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />][drive]
+[<img align="left" alt="senthil | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="senthil | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
 <br />
 
@@ -53,6 +56,9 @@
 
 [website]: https://senthil-v.wixsite.com/portfolio
 [youtube]: https://www.youtube.com/channel/UCvi7BQMl421WTDm4mHm0RVA
-[instagram]: https://instagram.com/
+[instagram]: https://instagram.com/mr_lonely_wolf_30?igshid=1pe3h5ltsbl1d
 [linkedin]: https://www.linkedin.com/in/senthil-pitchappan-v-7a1637188/
+[drive]: https://drive.google.com/drive/folders/1WgYoIa6jyKx95dJHKUhRuatnRKRMXC93
+[behance]:https://www.behance.net/senthil-v/
+[kaggle]:https://www.kaggle.com/steph30
 
