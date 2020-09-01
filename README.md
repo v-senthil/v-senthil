@@ -54,6 +54,12 @@
 ➡️ [more blog posts...](https://senthil-v.wixsite.com/myportfolio/blog-1)
 
 ---
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Senthil's Github Stats" src="https://github-readme-stats.v-senthil.vercel.app/api?username=v-senthil&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://senthil-v.wixsite.com/portfolio
 [youtube]: https://www.youtube.com/channel/UCvi7BQMl421WTDm4mHm0RVA
