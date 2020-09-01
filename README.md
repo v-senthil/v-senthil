@@ -8,6 +8,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and upskill myself
 - ⚡ Fun fact: Love playing basketball, photography, videography, playing around with data
 
+### On going Project
+
+- 🔌⚙💻 Final Year Project - Automatic Remote Monitoring System (A R M S)
+
 
 ### Connect with me:
 
