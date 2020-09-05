@@ -12,6 +12,7 @@
 
 - 🔌⚙ Final Year Project - Automatic Remote Monitoring System (A R M S)
 - 💻📱 Netflix Redesign using Adobe XD
+- 🌐 WordPress Website for a Dance Academy
 
 
 ### Connect with me:
