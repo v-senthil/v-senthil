@@ -13,6 +13,7 @@
 - 🔌⚙ Final Year Project - Automatic Remote Monitoring System (A R M S)
 - 💻📱 Netflix Redesign using Adobe XD
 - 🌐 WordPress Website for a Dance Academy
+- 🌥☁️ AWS through AWS learning
 
 
 ### Connect with me:
@@ -24,6 +25,7 @@
 [<img align="left" alt="senthil | Google Drive" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />][drive]
 [<img align="left" alt="senthil | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="senthil | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="senthil | Microsoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />][microsoft]
 
 <br />
 
@@ -85,4 +87,6 @@
 [drive]: https://drive.google.com/drive/folders/1WgYoIa6jyKx95dJHKUhRuatnRKRMXC93
 [behance]:https://www.behance.net/senthil-v/
 [kaggle]:https://www.kaggle.com/steph30
+[microsoft]:https://docs.microsoft.com/en-gb/users/SenthilPitchappanV-5597
+
 
