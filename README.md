@@ -10,8 +10,7 @@
 
 ### On going Project
 
-- 🔌⚙ Final Year Project - Automatic Remote Monitoring System (A R M S)
-- 💻📱 Netflix Redesign using Adobe XD
+- 🔌⚙ Final Year Project - Automatic Remote Monitoring System (A R M S) using Flask
 - 🌐 WordPress Website for a Dance Academy
 - 🌥☁️ AWS through AWS learning
 
