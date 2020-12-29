@@ -41,6 +41,15 @@
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" title="Google Analytics"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" title="Arduino"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" title="Raspberry Pi"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" title="WordPress"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" title="Power BI"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" title="R Programming"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku"></code>
 <br />
 
 - UI/UX Designing
