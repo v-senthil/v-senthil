@@ -73,11 +73,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic number-plate Recognition](https://senthil-v.wixsite.com/myportfolio/post/automatic-number-plate-recognition-in-just-15-lines-of-code)
-- [Creating your own website](https://senthil-v.wixsite.com/myportfolio/post/creating-your-own-website)
+- [Quick Message Application using Flask](https://senthil-v.wixsite.com/portfolio/post/send-whats-app-messages-without-saving-the-number-in-your-contact-list)
+- [Device Tracker Using Flask](https://senthil-v.wixsite.com/portfolio/post/device-tracker-using-flask)
+- [REST API using Flask](https://senthil-v.wixsite.com/myportfolio/post/rest-api-using-flask-framework)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://senthil-v.wixsite.com/myportfolio/blog-1)
+➡️ [more blog posts...](https://senthil-v.wixsite.com/portfolio/blog)
 
 ---
 [![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=v-senthil)](https://github.com/anuraghazra/github-readme-stats)
