@@ -18,13 +18,13 @@
 ### Connect with me:
 
 [<img align="left" alt="senthil" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="senthil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="senthil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="senthil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="senthil | Google Drive" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />][drive]
-[<img align="left" alt="senthil | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-[<img align="left" alt="senthil | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="senthil | Microsoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoft.svg" />][microsoft]
+[<img align="left" alt="senthil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
+[<img align="left" alt="senthil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="senthil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" alt="senthil | Google Drive" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googledrive.svg" />][drive]
+[<img align="left" alt="senthil | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" />][behance]
+[<img align="left" alt="senthil | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="senthil | Microsoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][microsoft]
 
 <br />
 
