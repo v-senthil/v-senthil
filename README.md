@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="senthil" width="22px" src="🌎" />][website]
+🌎[website]
 [<img align="left" alt="senthil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
 [<img align="left" alt="senthil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="senthil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
