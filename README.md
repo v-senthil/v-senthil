@@ -15,18 +15,6 @@
 - 🌥☁️ AWS through AWS learning
 
 
-### Connect with me:
-
-🌎[website]
-[<img align="left" alt="senthil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
-[linkedin]
-[<img align="left" alt="senthil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[drive]
-[<img align="left" alt="senthil | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" />][behance]
-[<img align="left" alt="senthil | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="senthil | Microsoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/microsoft.svg" />][microsoft]
-
-<br />
 
 ### Languages and Tools:
 
@@ -73,23 +61,18 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Message Application using Flask](https://senthil-v.wixsite.com/portfolio/post/send-whats-app-messages-without-saving-the-number-in-your-contact-list)
-- [Device Tracker Using Flask](https://senthil-v.wixsite.com/portfolio/post/device-tracker-using-flask)
-- [REST API using Flask](https://senthil-v.wixsite.com/myportfolio/post/rest-api-using-flask-framework)
+- [Dev.to API's which can be used to view posts on your web page / portfolio](https://dev.to/senthil_v/dev-to-api-s-which-can-be-used-to-view-posts-on-your-web-page-portfolio-3jnl)
+- [Viber API](https://dev.to/senthil_v/viber-api-1lcg)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://senthil-v.wixsite.com/portfolio/blog)
+➡️ [more blog posts...](https://senthil-v.herokuapp.com/posts)
 
 ---
 [![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=v-senthil)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://senthil-v.wixsite.com/portfolio
-[youtube]: https://www.youtube.com/channel/UCvi7BQMl421WTDm4mHm0RVA
+[website]: https://senthil-v.herokuapp.com
 [instagram]: https://instagram.com/mr_lonely_wolf_30?igshid=1pe3h5ltsbl1d
 [linkedin]: https://www.linkedin.com/in/senthil-pitchappan-v-7a1637188/
-[drive]: https://drive.google.com/drive/folders/1WgYoIa6jyKx95dJHKUhRuatnRKRMXC93
-[behance]:https://www.behance.net/senthil-v/
-[kaggle]:https://www.kaggle.com/steph30
 [microsoft]:https://docs.microsoft.com/en-gb/users/SenthilPitchappanV-5597
 
 
