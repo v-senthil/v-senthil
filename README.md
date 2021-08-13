@@ -40,21 +40,15 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" title="Heroku"></code>
 <br />
 
-- UI/UX Designing
-- Adobe XD
 - Tableau
 - Power BI
-- Digital Marketing
-- Adobe After Effects
 - Internet of Things
 - Oracle Apex
-- Adobe XD
-- Framer X
 - Google Dialog Flow
-- Figma
-- Invision Studio
 - R Studio
 - Juypter Notebook
+- UI/UX Designing
+- Adobe XD
 <br />
   
 
