@@ -67,12 +67,11 @@
 
 ➡️ [more blog posts...](https://senthil-v.herokuapp.com/posts)
 
----
-[![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=v-senthil)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://senthil-v.herokuapp.com
 [instagram]: https://instagram.com/mr_lonely_wolf_30?igshid=1pe3h5ltsbl1d
 [linkedin]: https://www.linkedin.com/in/senthil-pitchappan-v-7a1637188/
 [microsoft]:https://docs.microsoft.com/en-gb/users/SenthilPitchappanV-5597
 
-
+---
+[![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=v-senthil)](https://github.com/anuraghazra/github-readme-stats)
