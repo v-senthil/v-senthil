@@ -68,4 +68,4 @@
 [microsoft]:https://docs.microsoft.com/en-gb/users/SenthilPitchappanV-5597
 
 ---
-[![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=v-senthil)](https://github.com/anuraghazra/github-readme-stats)
+[![Senthil's github stats](https://github-readme-stats.vercel.app/api?username=v-senthil)
