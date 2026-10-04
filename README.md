@@ -8,7 +8,7 @@ I build high-throughput, low-latency backend systems for a CPaaS platform that p
 - 🌱 Currently learning to build small language models (SLMs) for customer-specific use cases and designing RAG systems
 - 🤖 Building with Claude, Cursor and GitHub Copilot; hands-on with open-source models, MCP, agents, skills and connectors
 - 💬 Ask me about Kafka pipelines, idempotent APIs, HBase at scale, or the WhatsApp Business Platform
-- ⚡ Off the keyboard: basketball 🏀, photography 📷 and videography 🎥
+- ⚡ Off the keyboard: basketball 🏀 and photography 📷
 
 ---
 
